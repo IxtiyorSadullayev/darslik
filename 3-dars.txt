@@ -1,0 +1,5 @@
+1. HTML ga kirish. teglar (meta, html, title, body, link, head)
+2. O`zlari un bir kichik web sayt yasatish.
+3. text, p, h1:h6, span
+4. br, hr, sub, sup, ..
+5. Uyga vazifa. Qisqa sodda.

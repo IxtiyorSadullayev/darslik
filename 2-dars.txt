@@ -1,0 +1,5 @@
+1. Vscode imkoniyatlari. fayl ochish, papka ochish, 
+2. Vscode da extention lari haqida ma`lumot berasan. (Live Server glavisi, Vscode icons)
+3. Vscode tezkor klavishlari haqida ma`lumot berasan. 
+4. Htmlda teg tushunchasi.
+5. Boshlang`ich teglar haqida ma`lumot berish.

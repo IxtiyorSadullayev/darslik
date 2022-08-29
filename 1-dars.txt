@@ -1,0 +1,5 @@
+1. HTML nima ?
+2. FrontEnd nima ? Backend nima ? O`rtasidagi farq ?
+3. Sayt . Web Sayt, WEB nima ?, WEB dastur nima , html fayl haqida ma`lumot. ?
+4. Brawser nima ? Brawser bilan ishlash. Brawser Google Chrome Officail
+5. Dasturlash muxiti. Vscode. Blacknot, Sublime, ... Web Storm
